@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x   6 richard_teng  staff  192  6  1 11:22 .
+drwxr-xr-x   8 richard_teng  staff  256  6  1 11:21 ..
+drwxr-xr-x  12 richard_teng  staff  384  6  1 11:21 .git
+-rw-r--r--   1 richard_teng  staff    0  6  1 11:22 123.txt
+-rw-r--r--   1 richard_teng  staff   10  6  1 11:21 README.md
+-rw-r--r--   1 richard_teng  staff   29  6  1 11:21 test1.txt
